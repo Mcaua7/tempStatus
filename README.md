@@ -1,4 +1,4 @@
-# tempStatus
+# TempStatus
 
 Projeto desenvolvido em **React Native** utilizando **Expo**, com foco em exibição de informações de status a partir de dados definidos no próprio projeto. O aplicativo é voltado para fins educacionais e prática de desenvolvimento mobile.
 
